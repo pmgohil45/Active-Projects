@@ -1,4 +1,4 @@
-1) Arithmetic Calculator:
+1) Arithmetic Calculator Application:
       Language: Android - Kotlin
       Note: Currently Sold Out
 
@@ -14,6 +14,17 @@
       Language: JavaScript, HTML5, CSS3, Bootstrap
       Available on: https://pratikmodi.site/
 
-5) Portfolio Website:
+5) Jumbo Jet - Game:
       Language: Android - Kotlin
       Available on: https://play.google.com/store/apps/details?id=com.tbegames.and.top_speed_drag_
+      Link: https://github.com/pmgohil45/Active-Projects/blob/main/Jumbo%20Jet%20-%20Game.png
+
+6) Art of Thoughts (Admin) App:
+      Language: Kotlin
+      Tools: Android Studio
+      Database: Firebase Console
+      Link: https://youtu.be/Re6BbtLkjdI
+
+7) InfraConnect Enterprises - Company Website:
+      Language: HTML, JavaScript, CSS, Bootstrap, SMTP Service
+      Available on: https://infraconnectenterprises.com/
